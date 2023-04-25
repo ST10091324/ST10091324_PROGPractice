@@ -6,3 +6,11 @@ C:\Users\ebenm\source\repos\CalculateCircleArea\obj\Debug\CalculateCircleArea.cs
 C:\Users\ebenm\source\repos\CalculateCircleArea\obj\Debug\CalculateCircleArea.csproj.CoreCompileInputs.cache
 C:\Users\ebenm\source\repos\CalculateCircleArea\obj\Debug\CalculateCircleArea.exe
 C:\Users\ebenm\source\repos\CalculateCircleArea\obj\Debug\CalculateCircleArea.pdb
+C:\Users\ebenm\Source\Repos\ST10091324_PROGPractice\bin\Debug\CalculateCircleArea.exe.config
+C:\Users\ebenm\Source\Repos\ST10091324_PROGPractice\bin\Debug\CalculateCircleArea.exe
+C:\Users\ebenm\Source\Repos\ST10091324_PROGPractice\bin\Debug\CalculateCircleArea.pdb
+C:\Users\ebenm\Source\Repos\ST10091324_PROGPractice\obj\Debug\CalculateCircleArea.csproj.AssemblyReference.cache
+C:\Users\ebenm\Source\Repos\ST10091324_PROGPractice\obj\Debug\CalculateCircleArea.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebenm\Source\Repos\ST10091324_PROGPractice\obj\Debug\CalculateCircleArea.csproj.CoreCompileInputs.cache
+C:\Users\ebenm\Source\Repos\ST10091324_PROGPractice\obj\Debug\CalculateCircleArea.exe
+C:\Users\ebenm\Source\Repos\ST10091324_PROGPractice\obj\Debug\CalculateCircleArea.pdb

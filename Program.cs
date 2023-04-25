@@ -51,12 +51,22 @@ namespace CalculateCircleArea
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter radius of smaller circle: ");
+            Console.Write("Enter radius of smaller circle: ");
             String circleRadius = Console.ReadLine();
             Circle circleObj = new Circle(Convert.ToInt32(circleRadius));
             circleObj.calculateSmallerCircleArae();
             circleObj.calculateBiggerCircleArea();
             circleObj.printCircleArea();
+            Console.WriteLine();
+
+            Console.Write("Enter rectangle height: ");
+            double heightOfRectangle = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Enter rectangle width: ");
+            double widthOfRectangle = Convert.ToDouble(Console.ReadLine());
+            Rectangle rectangleObj = new Rectangle(heightOfRectangle, widthOfRectangle);
+            rectangleObj.calculateArea();
+            rectangleObj.printArea();
+
             Console.ReadKey();
         }
     }
